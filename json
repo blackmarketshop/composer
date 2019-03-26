@@ -1,0 +1,8 @@
+{
+     " Черный рынок " : " BlaskShop / BlaskShop " ,
+     " SHOP " : " BLACK " ,
+     " Требовать " : {
+         " php " : " > = 5.5 " ,
+         " longman / telegram-bot " : " * "
+     }
+ } 
